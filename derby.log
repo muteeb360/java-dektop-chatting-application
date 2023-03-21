@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Mar 21 12:02:00 PKT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0187-02f9-8592-000007c5f1a0 
+on database directory C:\Users\jhonr\OneDrive\Desktop\chatmate\Chatmate\Contacts with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/jhonr/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.1+10-21
+user.dir=C:\Users\jhonr\OneDrive\Desktop\chatmate\Chatmate
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
